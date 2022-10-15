@@ -1,6 +1,6 @@
 /**Звідси будуть завантажуватись цілі */
 const targetSource = 
-'https://raw.githubusercontent.com/opengs/uashieldtargets/master/sites.json';
+'https://raw.githubusercontent.com/nikanzf/stopwarnow.github.io/main/sites.json';
 
 // DOM елементи
 let frameDiv, attacks, targetField, methodField, btn, box, modal;
